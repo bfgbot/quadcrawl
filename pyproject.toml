@@ -1,0 +1,8 @@
+[project]
+name = "quadcrawl"
+version = "0.1.0"
+dependencies = ["lxml"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
